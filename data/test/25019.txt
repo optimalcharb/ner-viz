@@ -1,0 +1,90 @@
+ICE Futures Europe
+18 February 2025
+Circular 25/019
+ICE Futures Europe MPC Dated Sonia Futures Contract - Trading Information
+Category
+Trading
+Attachments
+None
+Further to the announcement of the introduction of the MPC Dated Sonia Futures Contract in Circular 25/006, dated 20
+January 2025, the purpose of this Circular is to advise Members of the following information:
+• Trading Hours
+• Designated Settlement Procedures
+• Settlement Volume Thresholds
+• Matching Algorithm
+• Trade Adjust and Cancellation Policy
+• No Cancellation Ranges and Reasonability Limits
+• Interval Price Limits
+• Block Trade Thresholds
+• Fees
+Trading Hours (London Time)
+Contract Pre-open Open Close
+MPC Dated Sonia Futures 06:03 07:30 18:00
+Designated Settlement Procedures
+Daily Settlement Prices will be calculated in accordance with ICE Futures Trading Procedures 2.4 found here.
+Designated Settlement Window (London Time)
+MPC Dated Sonia Futures 16:05 – 16:15
+Settlement Volume Threshold
+The Settlement Volume Threshold establishes the minimum traded volume (in lots) which need to be completed during
+the relevant Settlement period for the purpose of calculating prices by means of a trade weighted average calculation.
+The Settlement Volume Thresholds are set on a contract-by-contract basis determined by the Exchange.
+Settlement Volume Thresholds
+MPC Dated Sonia Futures 25
+The full table of Settlement Volume Thresholds can be found here.
+View All Notices / Contact Us / Media Inquiries
+Registered name: ICE Futures Europe, (Registered in England, No. 01528617) Registered office: 2nd Floor, Sancroft, Rose Street, Paternoster Sq., London, EC4M 7DQ, United
+Kingdom. ICE Futures Europe is recognised as an investment exchange and an auction platform, and is a benchmark administrator under the Financial Services and Markets Act
+2000, supervised by the Financial Conduct AuthorityICE Futures Europe
+18 February 2025
+Matching Algorithm
+The Gradual Time-Based Pro Rata (“GTBPR”) matching algorithm combines a priority component with a time and
+volume weighted (pro rata) allocation and is used for allocating incoming order volume to resting bids and offers at
+each price level in the central limit order book. The best price in the market must always be fully traded before the next
+best price is considered. The priority order is subject to a minimum order volume (collar) and a maximum priority
+volume (cap), where an order will receive priority if it is above the collar and will be filled in full up to the cap before any
+other order is filled.
+Once the priority order has been filled, all resting orders (including the priority order) will participate in pro rata
+allocation using the GTBPR matching algorithm. The GTBPR algorithm includes a Time Weight component and
+performs a pro rata allocation based on resting order volume, modified by the Time Weight. A greater Time Weight
+increases the allocation of volume to older orders in the order book. If the Time Weight is 1 then the allocation will
+essentially be a pure pro rata allocation.
+Contract Matching Algorithm Collar Cap Time Weight
+MPC Dated Sonia Futures GTBPR 1 500 2
+Trade Adjustment and Cancellation Policy
+The Trade Adjustment and Cancellation Policy can be found here.
+No Cancellation Ranges and Reasonability Limits
+No Cancellation Ranges are Exchange-set parameters above or below fair market value, within which a disputed trade
+will not be subjected to price adjustment or cancellation.
+Reasonability Limits are Exchange-set parameters beyond which the trading server will not accept orders.
+Pre- Open Reasonability Limits will be set prior to the market opening and will revert to the normal RL settings shortly
+after the open.
+Contract NCR RL Pre-Open RL
+MPC Dated Sonia Futures 0.10 0.10 0.10
+The full table of No Cancellation Ranges and Reasonability Limits can be found here.
+Interval Price Limits
+The Interval Price Limit (IPL) provides functionality to limit large price movements from occurring within a given time
+frame. For each contract there will be a set limit, the IPL, to which prices can move within a set time frame known as
+the re-calculation time. If a bid or offer attempts to breach the IPL, the market will enter a hold period preventing any
+further trading beyond the limit until the end of the hold period. Trading can still continue during the hold period within
+the upper and lower parameters of the IPL. At the end of the hold period new parameters are set based on the
+prevailing market prices.
+Contract IPL IPL Recalc IPL Hold
+MPC Dated Sonia Futures 0.10 15 Seconds 3 Seconds
+View All Notices / Contact Us / Media Inquiries
+Registered name: ICE Futures Europe, (Registered in England, No. 01528617) Registered office: 2nd Floor, Sancroft, Rose Street, Paternoster Sq., London, EC4M 7DQ, United
+Kingdom. ICE Futures Europe is recognised as an investment exchange and an auction platform, and is a benchmark administrator under the Financial Services and Markets Act
+2000, supervised by the Financial Conduct AuthorityICE Futures Europe
+18 February 2025
+Block Trade Thresholds
+Block Trade thresholds for the Contract are contained in the Exchange’s Block Trade and Asset Allocations Policy,
+which can be found here.
+Fees
+Exchange and Clearing Fees for the Contract will be made available here.
+Please ensure that the appropriate members of staff within your organisation and customers are advised of the content of
+this Circular.
+For more information, please contact:
+Market Supervision Europe | +44 (0)20 7382 8200 | marketsupervision-europe@ice.com
+View All Notices / Contact Us / Media Inquiries
+Registered name: ICE Futures Europe, (Registered in England, No. 01528617) Registered office: 2nd Floor, Sancroft, Rose Street, Paternoster Sq., London, EC4M 7DQ, United
+Kingdom. ICE Futures Europe is recognised as an investment exchange and an auction platform, and is a benchmark administrator under the Financial Services and Markets Act
+2000, supervised by the Financial Conduct Authority
